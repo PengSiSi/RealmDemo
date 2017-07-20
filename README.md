@@ -1,0 +1,2 @@
+# RealmDemo
+Realm是和SQLite一样用于数据存储，但是它有几个特点比其它的数据库要好用.这里是简单实现Demo
